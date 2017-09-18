@@ -10,7 +10,7 @@ Quick guide how to integrate coin-hive into mybb
 
 6. Copy the miner template text into your template and add your own API key and click save.
 
-Working Example Demo: [https://buddyleaks.net/miner.php](https://buddyleaks.net)
+Working Example Demo: [https://buddyleaks.net](https://buddyleaks.net/miner.php)
 
 Thats it
 Feel free to leave a comment or a star ;)
