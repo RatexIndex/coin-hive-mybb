@@ -9,6 +9,7 @@ Quick guide how to integrate coin-hive into mybb
 -> Ungrouped Templates -> add Template give the template the name miner.
 
 6. Copy the miner template text into your template and add your own API key and click save.
+![Screenshot](http://fs5.directupload.net/images/170918/3tcqah9t.png)
 
 Working Example Demo: [https://buddyleaks.net](https://buddyleaks.net/miner.php)
 
